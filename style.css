@@ -458,6 +458,12 @@ footer li {
     overflow: hidden;
   }
 
+   .offcanvas {
+    max-width: 80%;
+    max-height: 100vh;
+    overflow-y: auto;
+  }
+
   .timeline li .timeline-image {
     width: 140px;
     height: 140px;
